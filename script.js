@@ -1,3 +1,13 @@
+/*
+Nie mam pojęcia o co chodzi...
+Kiedy skończysz, dodaj do komponentu Counter wszystkie 
+metody cyklu życia komponentu. W każdej z nich wypisz 
+console.log ze swoimi pomysłami na ich użycie, np. kiedy 
+wczytałbyś coś z serwera albo kiedy zależy nam na zoptymalizowaniu 
+działania komponentu itp.
+*/
+
+
 var Counter = React.createClass({
     getInitialState: function() {
         return {
